@@ -19,7 +19,12 @@ void main() {
     Employee('David Appiah',7),
   ];
 
-  
+    final affiliateList = {
+    'John Doe': 'Cousin',
+    'Alice Tenkorang': 'Sister',
+    'Bob Brownstone': 'Stepbrother',
+  };
+
 
 
 }
