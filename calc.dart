@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main() {
 
-// Initializing a list to contain the sample goods
+// Initializing a Map to contain the sample goods with their respective prices
 
   final products = {
     'Apple': 2.0,
