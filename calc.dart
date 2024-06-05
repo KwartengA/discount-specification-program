@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main() {
 
-// Initializing list to contain the sample goods
+// Initializing a list to contain the sample goods
 
   final products = {
     'Apple': 2.0,
