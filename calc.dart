@@ -19,6 +19,10 @@ void main() {
     Employee('David Appiah',7),
   ];
 
+   /* Creating a key-value pair
+       to denote users who are
+       relatives of the Employees
+                                  */
     final affiliateList = {
     'John Doe': 'Cousin',
     'Alice Tenkorang': 'Sister',
