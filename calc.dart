@@ -33,6 +33,8 @@ void main() {
   };
 
     final employeeRelations = Map.fromIterable(
+        affiliateList.keys,
+    key: (employee) => employee,
     );
 
   
