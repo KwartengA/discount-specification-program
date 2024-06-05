@@ -21,7 +21,10 @@ void main() {
 
    /* Creating a key-value pair
        to denote users who are
-       relatives of the Employees */      
+       relatives of the Employees
+
+       Also,stating the type of relation as the value 
+       and the name of the inidividual */      
 
     final affiliateList = {
     'John Doe': 'Cousin',
