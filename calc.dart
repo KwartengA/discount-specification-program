@@ -10,6 +10,12 @@ void main() {
     'Sugar':7.0,
     'Biscuits':5.0,
   };
+  final employees = [
+    Employee('Kenneth Joness',3),
+    Employee('Michael ',4),
+    Employee('David Appiah',7),
+  ];
+
 
 
 }
