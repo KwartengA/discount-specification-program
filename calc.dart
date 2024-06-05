@@ -1,5 +1,19 @@
 import 'dart:io';
 
+void main() {
+
+  final products = {
+    'Apple': 2.0,
+    'Banana': 1.0,
+    'Milk': 3.0,
+    'Cornflakes':22.0,
+    'Sugar':7.0,
+    'Biscuits':5.0,
+  };
+
+  
+}
+
 abstract class Customer {
   double calculatediscount(double totalprice);
   int numberOfYears;
