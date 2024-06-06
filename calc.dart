@@ -45,7 +45,8 @@ void main() {
     String name = stdin.readLineSync()!;
 
 /* The exclamation mark is a null assertion
-   operator
+   operator, which is a Dart type-safety feature 
+    that 
 */
 
  
