@@ -57,7 +57,7 @@ void main() {
 // Assigning product name to the products
  var productName = products;
 
-// 
+// Designating the 
  int chancesLeft = 3;
 
 }
