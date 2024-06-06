@@ -57,6 +57,9 @@ void main() {
 // Assigning product name to the products
  var productName = products;
 
+// 
+ int chancesLeft = 3;
+
 }
 
 abstract class Customer {
