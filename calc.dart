@@ -43,6 +43,9 @@ void main() {
   // Obtaining user's name
     stdout.write('Kindly enter your name');
     String name = stdin.readLineSync()!;
+/* The exclamation mark is a null aware 
+   operator
+*/
 
  
   
