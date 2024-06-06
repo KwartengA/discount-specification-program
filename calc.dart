@@ -40,7 +40,7 @@ void main() {
     value: (employee) => affiliateList[employee],
     );
 
-  // Obtaining user's name
+  //  Obtaining user's name
     stdout.write('Kindly enter your name');
     String name = stdin.readLineSync()!;
 
