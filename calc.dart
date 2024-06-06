@@ -49,7 +49,7 @@ void main() {
     that prevents crash events by ensuring that
      anything that requires an input is not left empty */
 
-   stdout.write('Enter the number of years as a customer/ an employee: ');
+  stdout.write('Enter the number of years as a customer/ an employee: ');
   int numberOfYears = int.parse(stdin.readLineSync()!);
 
  
