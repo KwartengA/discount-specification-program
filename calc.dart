@@ -54,6 +54,7 @@ void main() {
   stdout.write('Enter the number of years as a customer/ an employee: ');
   int numberOfYears = int.parse(stdin.readLineSync()!);
 
+ var productName 
 
 }
 
