@@ -60,10 +60,17 @@ void main() {
 // Designating the number of times a user can place an order
  int chancesLeft = 3;
   while (chancesLeft > 0) {
+
         stdout.write('Enter product name (or type ''done'' to finish): ');
     String? productName = stdin.readLineSync();
     if (productName == 'done')
      break;
+
+     if (products.containsKey(productName)) {
+      stdout.write('Enter quantity: ');
+      int quantity = int.parse(stdin.readLineSync()!);
+
+     }
 
 
   }
