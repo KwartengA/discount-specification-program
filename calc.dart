@@ -57,7 +57,7 @@ void main() {
 // Assigning product name to the products
  var productName = products;
 
-// Designating the number of 
+// Designating the number of the user can  
  int chancesLeft = 3;
 
 }
