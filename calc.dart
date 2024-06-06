@@ -46,7 +46,9 @@ void main() {
 
 /* The exclamation mark is a null assertion
    operator, which is a Dart type-safety feature 
-    that 
+    that prevents crash events by ensuring that
+     anything that requires an input is not left 
+      unatte
 */
 
  
