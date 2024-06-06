@@ -57,6 +57,8 @@ void main() {
 // Assigning product name to the products
  var productName = products;
 
+  Map<String,int>cart = {};
+
 // Designating the number of times a user can place an order
  int chancesLeft = 3;
   while (chancesLeft > 0) {
@@ -70,12 +72,20 @@ void main() {
       stdout.write('Enter quantity: ');
       int quantity = int.parse(stdin.readLineSync()!);
 
+
+       cart[productName!] = (cart[productName]??0) + quantity;
+      
+    } 
+    else {
+      print('Product not found. Please try again.');
+      chancesLeft--;
+      print('Chances left: $chancesLeft');
+    }
+
      }
 
 
   }
-
-}
 
 abstract class Customer {
   double calculatediscount(double totalprice);
