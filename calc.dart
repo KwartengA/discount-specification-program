@@ -33,12 +33,17 @@ void main() {
   };
 
   //correlating the Employees to their associated Affiliates
-  
+
     final employeeRelations = Map.fromIterable(
         affiliateList.keys,
     key: (employee) => employee,
     value: (employee) => affiliateList[employee],
     );
+
+  // Obtaining 
+
+    stdout.write('Kindly enter your name');
+    String name = stdin.readLineSync()!;
 
   
 
