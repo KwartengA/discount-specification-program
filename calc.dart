@@ -32,7 +32,7 @@ void main() {
     'Bob Brownstone': 'Stepbrother',
   };
 
-  //correlating the Employees to their associated Affiliates
+  // Correlating the Employees to their associated Affiliates
 
     final employeeRelations = Map.fromIterable(
         affiliateList.keys,
