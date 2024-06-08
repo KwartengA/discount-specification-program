@@ -99,7 +99,7 @@ void main() {
   
   }
 
-  double totalPrice = 0.0;
+   double totalPrice = 0.0;
   cart.forEach((productName, quantity) {
     totalPrice += products[productName]! * quantity;
   });
