@@ -83,8 +83,9 @@ void main() {
     }
 
      }
+
     //Stating the necessities for the different customer categories
-    
+
      Customer customer;
      if (employeeRelations.containsKey(name)) {
      customer = AffiliateCustomer(numberOfYears);
@@ -97,6 +98,8 @@ void main() {
   
   
   }
+  
+  double totalPrice = 0.0;
 
   }
 
