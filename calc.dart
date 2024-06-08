@@ -87,12 +87,19 @@ void main() {
      Customer customer;
      if (employeeRelations.containsKey(name)) {
      customer = AffiliateCustomer(numberOfYears);
-
-
      }
-
+    else if (numberOfYears >= 2) {
+    customer = ConstantCustomers(numberOfYears);
+  } 
+  else {
+    customer = RegularCustomers(numberOfYears);
+  
+  
+  }
+  
   }
 
+     
 abstract class Customer {
   double calculatediscount(double totalprice);
   int numberOfYears;
