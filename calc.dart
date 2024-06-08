@@ -85,6 +85,11 @@ void main() {
      }
     
      Customer customer;
+     if (employeeRelations.containsKey(name)) {
+
+
+      
+     }
 
   }
 
