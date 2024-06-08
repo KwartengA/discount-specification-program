@@ -83,7 +83,8 @@ void main() {
     }
 
      }
-
+    
+     Customer customer;
 
   }
 
