@@ -106,7 +106,7 @@ void main() {
 
     totalPrice = 0.0;
     cart.forEach((productName, quantity){
-    totalPrice +=
+    totalPrice += (products[productName]??0) * quantity;
 
   }
 
