@@ -99,17 +99,23 @@ void main() {
   
   }
 
-   double totalPrice = 0.0;
+   double totalprice = 0.0;
   cart.forEach((productName, quantity) {
-    totalPrice += products[productName]! * quantity;
+    totalprice += products[productName]! * quantity;
+  });
+
+    double totalPrice = 0.0;
+  cart.forEach((productName, quantity) {
+    totalprice += products[productName]! * quantity;
   });
 
     totalPrice = 0.0;
     cart.forEach((productName, quantity){
     totalPrice += (products[productName]??0) * quantity;
     });
-
     
+    double netTotal = totalPrice - customer.calculatediscount(totalprice);
+
   }
   
 
