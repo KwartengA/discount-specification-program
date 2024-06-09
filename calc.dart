@@ -105,7 +105,8 @@ void main() {
   });
 
     totalPrice = 0.0;
-    cart.forEach((productName, quantity) 
+    cart.forEach((productName, quantity){
+    totalPrice +=
 
   }
 
