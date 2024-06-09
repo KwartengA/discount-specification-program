@@ -119,7 +119,7 @@ void main() {
     
       print('Hello, $name!');
       print('Your Total Price: \GHC${totalPrice.toStringAsFixed(2)}');
-
+      print('Your Net Total: \GHC${netTotal.toStringAsFixed(2)}');
   }
   
 
