@@ -99,6 +99,8 @@ void main() {
   
   }
 
+//Getting the total prices of the orders as well as their net total
+
    double totalprice = 0.0;
   cart.forEach((productName, quantity) {
     totalprice += products[productName]! * quantity;
