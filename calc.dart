@@ -109,10 +109,10 @@ void main() {
     totalprice += products[productName]! * quantity;
   });
 
-    totalPrice = 0.0;
-    cart.forEach((productName, quantity){
-    totalPrice += (products[productName]??0) * quantity;
-    });
+     totalPrice = 0.0;
+     cart.forEach((productName, quantity){
+      totalPrice += (products[productName]??0) * quantity;
+      });
     
     double netTotal = totalPrice - customer.calculatediscount(totalprice);
 
