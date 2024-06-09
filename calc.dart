@@ -107,8 +107,9 @@ void main() {
     totalPrice = 0.0;
     cart.forEach((productName, quantity){
     totalPrice += (products[productName]??0) * quantity;
-
+});
   }
+  
 
      
 abstract class Customer {
