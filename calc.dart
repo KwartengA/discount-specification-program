@@ -51,7 +51,7 @@ void main() {
      
 
 // Gaining access to the user's number of years
-  stdout.write('Enter the number of years as a customer/ an employee: ');
+  stdout.writeln('Enter the number of years as a customer/ an employee: ');
   int numberOfYears = int.parse(stdin.readLineSync()!);
 
 // Assigning product name to the products
