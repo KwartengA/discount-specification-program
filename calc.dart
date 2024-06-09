@@ -105,6 +105,7 @@ void main() {
   });
 
     totalPrice = 0.0;
+    cart.forEach
 
   }
 
