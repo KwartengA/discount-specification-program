@@ -116,6 +116,7 @@ void main() {
 
     
     double netTotal = totalPrice - customer.calculatediscount(totalprice);
+    
 
   }
   
