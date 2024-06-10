@@ -12,7 +12,11 @@ It then prescribes a discount which is maintained by the company
  ## CATEGORIES OF SPECIFICATION AND THEIR ASSOCIATED DISCOUNTS
   
   __Employees:__ 
-  These are the staff of the company and by virtue, are to obtain a discount of 5% of their total purchase.
+  These individuals are the staff of the company and by virtue, are to obtain a discount of 5% of their total purchase.
 
   __Customers__:
- These are users of the service 
+ They are the active users of the service and are subdivided into two groups:
+
+ 1. Constant Customers:
+
+ 2.
