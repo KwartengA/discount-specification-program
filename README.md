@@ -17,6 +17,7 @@ It then prescribes a discount which is maintained by the company
   __Customers__:
  They are the active users of the service and are subdivided into two groups:
 
- 1. Constant Customers:
+ >1. __Constant Customers__:
+  The requirement for being a constant customer is that the number of years pertaining to the usage of the service should be two or more.
 
- 2.
+ >2. __Regular Customers__:
