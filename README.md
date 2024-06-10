@@ -21,3 +21,8 @@ It then prescribes a discount which is maintained by the company
   The requirement for being a constant customer is that the number of years pertaining to the usage of the service should be two or more.
 
  >2. __Regular Customers__:
+
+
+ 
+ __Affiliates__:
+ Affiliates denote people that have a relation to the employees of the organiszation. They are thereof granted a discount of 3% of their total purchase. 
