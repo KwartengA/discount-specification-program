@@ -5,4 +5,4 @@
 ### _OVERVIEW OF THE PROGRAMME_
 <HR>
 
-- This is a discount calculator program for a Grocery Shop that takes accounts of user categories in an organization 
+- This is a discount calculator program for a Grocery Shop within an organization that takes accounts of user categories in that organization 
