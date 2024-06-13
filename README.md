@@ -18,10 +18,10 @@ It then prescribes a discount which is maintained by the company
  They are the active users of the service and are subdivided into two groups:
 
  >1. __Constant Customers__:
-  The requirement for being a constant customer is that the number of years pertaining to the usage of the service should be two or more.
+  The requirement for being a constant customer is that the number of years pertaining to the usage of the service should be two or more. It then follows that these set of people obtain a reduction of %.
 
  >2. __Regular Customers__:
-  For a person to to qualify as a regular customer , that individual in question should have used the service for less than two years.
+  For a person to to qualify as a regular customer , that individual in question should have used the service for less than two years. As it persists , t
 
  
  __Affiliates__:
