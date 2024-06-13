@@ -21,7 +21,7 @@ It then prescribes a discount which is maintained by the company
   The requirement for being a constant customer is that the number of years pertaining to the usage of the service should be two or more.
 
  >2. __Regular Customers__:
-  For a person o to qualify
+  For a person to to qualify as a regular customer , that individual in question should have used the service for less than two years.
 
  
  __Affiliates__:
