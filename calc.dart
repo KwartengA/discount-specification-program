@@ -84,6 +84,7 @@ void main() {
 
      }
 
+
     //Stating the necessities for the different customer categories
 
      Customer customer;
@@ -127,7 +128,8 @@ void main() {
   }
   
 
-     
+ //Stating the classes to denote the categories of the users 
+
 abstract class Customer {
   double calculatediscount(double totalprice);
   int numberOfYears;
