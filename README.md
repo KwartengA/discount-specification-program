@@ -30,11 +30,11 @@ _It then prescribes a discount which is maintained by the company as well as its
  ### DUTIES TO BE PERFORMED:
   1. Combined Discount: This permits every user,regarldess of their category to have a 5 dollar disocunt for every 100 dollar-purchase.
 
-  2.Product: This 
+  2. Product: This spells out the the orders
 
-  3.Total:
+  3. Total Price:
 
-  4.Net Total:
+  4. Net-Total Price:
  
 
 
