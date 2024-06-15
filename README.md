@@ -35,6 +35,11 @@ _It then prescribes a discount which is maintained by the company as well as its
   3. Total Price:
 
   4. Net-Total Price:
+
+ ## Contributions
+I am receptive to any contribution on this piece.  
+
+
  
 
 
