@@ -25,10 +25,10 @@ _It then prescribes a discount which is maintained by the company as well as its
  __Affiliates__:
  Affiliates denote people that have a relation to the employees of the organiszation. They are thereof granted a discount of 3% of their total purchase. 
 
- __However, a combined discount of 5cedis is granted for every GHC 100 cedi-purchase for every individual in question__
+ __However, a combined discount of 5 cedis is granted for every GHC 100 cedi-purchase for every individual in question.__
 
  ### DUTIES TO BE PERFORMED:
-  1. Combined Discount: This 
+  1. Combined Discount: This permits every user,regarldess of their catgeorty to have a 5
  
 
 
