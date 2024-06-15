@@ -6,7 +6,6 @@
 <HR>
 
 - This is a discount calculator program for a Grocery Shop within an organization that takes accounts of user categories in that organization.
-
 _It then prescribes a discount which is maintained by the company as well as its stakeholders._
 
  ## CATEGORIES OF SPECIFICATION AND THEIR ASSOCIATED DISCOUNTS
@@ -23,8 +22,6 @@ _It then prescribes a discount which is maintained by the company as well as its
  >2. __Regular Customers__:
   For a person to to qualify as a regular customer , that individual in question should have used the service for less than two years. As it persists , regular customers are denied a discount of any sort.
 
-
- 
  __Affiliates__:
  Affiliates denote people that have a relation to the employees of the organiszation. They are thereof granted a discount of 3% of their total purchase. 
 
