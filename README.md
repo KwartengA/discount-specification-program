@@ -34,11 +34,14 @@ _It then prescribes a discount which is maintained by the company as well as its
 
   3. Total Price: The total price spells out the 
 
-  4. Net-Total Price: This is the price the user is required to pay and is denoted as the toal price subtracted from the discount accorded to that particular user
+  4. Net-Total Price: This is the price the user is required to pay and is denoted as the accorded discount subtracted from the total price. This is what the user is demanded to make payment for
+
+## SOLID PRINCIPLES
 
 
  ## Contributions
-I am receptive to any contribution on this piece. 
+ As having tried and tested this, it is undoubtedly am receptive to any contribution on this piece.
+ Kindly 
 
 
  
