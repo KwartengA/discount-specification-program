@@ -121,8 +121,8 @@ void main() {
     double netTotal = totalPrice - customer.calculatediscount(totalprice);
     
     print('Hello, $name!');
-     print('Your Total Price: \GHC${totalPrice.toStringAsFixed(2)}');
-      print('Your Net Total: \GHC${netTotal.toStringAsFixed(2)}');
+     print('Your Total Price: \$${totalPrice.toStringAsFixed(2)}');
+      print('Your Net Total: \$${netTotal.toStringAsFixed(2)}');
 
 
   }
