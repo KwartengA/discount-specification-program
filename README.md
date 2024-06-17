@@ -32,7 +32,7 @@ _It then prescribes a discount which is maintained by the company as well as its
 
   2. Product: This accounts for the orders made by the user of the service.
 
-  3. Total Price: The total price depicts the overall price accumulated after the orders have been keyed in and their associated quantities have been accounted for 
+  3. Total Price: The total price depicts the overall price accumulated after the orders have been keyed in and their associated quantities have been accounted for.
 
   4. Net-Total Price: This is the price the user is required to pay and is denoted as the accorded discount subtracted from the total price. This is what the user is demanded to make payment for
 
