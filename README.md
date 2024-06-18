@@ -23,12 +23,13 @@ _It then prescribes a discount which is maintained by the company as well as its
   For a person to to qualify as a regular customer , that individual in question should have used the service for less than two years. As it persists , regular customers are denied a discount of any sort.
 
  __Affiliates__:
+ 
  Affiliates denote people that have a relation to the employees of the organiszation. They are thereof granted a discount of 3% of their total purchase. 
 
  __However, a combined discount of 5 dollars is granted every individual in question. This is elaborated in the duties of this program.__
 
  ### DUTIES TO BE PERFORMED:
- 
+
   1. Combined Discount: This permits every user, regarldess of their category to have a 5 dollar disocunt for every 100 dollar-purchase and above.
 
   2. Product: This accounts for the orders made by the user of the service.
