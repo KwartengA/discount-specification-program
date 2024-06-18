@@ -127,7 +127,6 @@ void main() {
 
   }
   
-
  //Stating the classes to denote the categories of the users 
 
 abstract class Customer {
