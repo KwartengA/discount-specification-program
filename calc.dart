@@ -119,7 +119,7 @@ void main() {
 
     double netTotal = totalPrice - customer.calculatediscount(totalprice);
 
-   // Printing out the users's name and the total price of orders as well as their net-total price
+  // Printing out the users's name and the total price of orders as well as their net-total price
     print('Hello, $name!');
      print('Your Total Price: \$${totalPrice.toStringAsFixed(2)}');
       print('Your Net Total: \$${netTotal.toStringAsFixed(2)}');
