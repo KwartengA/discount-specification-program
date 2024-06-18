@@ -37,7 +37,6 @@ _It then prescribes a discount which is maintained by the company as well as its
   4. Net-Total Price: This is the price the user is required to pay and is denoted as the accorded discount subtracted from the total price. This is what the user is demanded to make payment for
 
  ## Contributions
- 
  As having tried and tested this,it is undoubtedly ordinary that it can be susceptible to bugs. I am receptive to any issue or required changes on this piece.
  
  Kindly open a PR and state your opinion with an ample description as to what you feel should be implemented.
