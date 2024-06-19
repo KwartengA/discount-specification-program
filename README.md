@@ -9,7 +9,6 @@ This a series of code written for a Grocery Shop within an organization to facil
 _It then prescribes a discount which is maintained by the company as well as its stakeholders._
 
  ## CATEGORIES OF SPECIFICATION AND THEIR ASSOCIATED DISCOUNTS
-  
   __Employees:__ 
   These individuals are the staff of the company and by virtue, are to obtain a discount of 5% of their total purchase.
 
@@ -41,6 +40,7 @@ __However, a combined discount of 5 dollars is granted every individual in quest
  As having tried and tested this,it is undoubtedly ordinary that it can be susceptible to bugs. I am receptive to any issue or required changes on this piece.
 
  Kindly open a PR and state your opinion with an ample description as to what you feel should be implemented.
+ 
  You can also fork this repository , clone it in your IDE and make the necessary changes with any branch of your choice.
 
 
